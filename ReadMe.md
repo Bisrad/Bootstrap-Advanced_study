@@ -5,7 +5,7 @@ Practice project in using bootstrap to explore documentation and build a Page st
 
 ### Author: Bisraddesign (Brad Thompson)
 
-![](example_page.png)
-![](example_modal.png)
+![](img/example_page.png)
+![](img/example_modal.png)
 
 
